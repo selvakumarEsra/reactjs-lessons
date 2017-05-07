@@ -1,0 +1,41 @@
+{
+  "name": "reactjs-lessons",
+  "version": "1.0.0",
+  "description": "my reactjs learning path",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-less": "^3.3.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-uncss": "^1.0.6",
+    "gulp-useref": "^3.1.2",
+    "run-sequence": "^1.2.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selvakumarEsra/reactjs-lessons.git"
+  },
+  "keywords": [
+    "reactjs",
+    "selvakumar",
+    "esra"
+  ],
+  "author": "Selvakumar Esra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selvakumarEsra/reactjs-lessons/issues"
+  },
+  "homepage": "https://github.com/selvakumarEsra/reactjs-lessons#readme"
+}
